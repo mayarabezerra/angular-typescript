@@ -1,12 +1,6 @@
 {
   "pensamentos": [
     {
-      "id": 2,
-      "conteudo": "Estudando Angular testando edit",
-      "autoria": "Dev Alura",
-      "modelo": "modelo1"
-    },
-    {
       "id": 3,
       "conteudo": "Angular é o melhor",
       "autoria": "Dev Alura",
