@@ -4,19 +4,15 @@
       "id": 3,
       "conteudo": "Angular é o melhor",
       "autoria": "Dev Alura",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": true
     },
     {
-      "conteudo": "testando",
-      "autoria": "",
+      "conteudo": "vai dar tudo certo",
+      "autoria": "Ozana",
       "modelo": "modelo1",
-      "id": 5
-    },
-    {
-      "conteudo": "testandpo",
-      "autoria": "sas",
-      "modelo": "modelo1",
-      "id": 6
+      "id": 4,
+      "favorito": true
     }
   ]
 }
